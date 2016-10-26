@@ -43,7 +43,7 @@ vendor/htc/a32e/proprietary/app/TimeService/TimeService.apk:system/bin/app/TimeS
 # Media
 PRODUCT_COPY_FILES += \
     vendor/htc/a32e/proprietary/media/LMspeed_508.emd:system/media/LMspeed_508.emd \
-    vendor/htc/a32e/proprietary/media/PFFprec_600.emd:system/bin/media/PFFprec_600.emd \
+    vendor/htc/a32e/proprietary/media/PFFprec_600.emd:system/media/PFFprec_600.emd \
 
 # libs
 PRODUCT_COPY_FILES += \
